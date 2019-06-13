@@ -1,4 +1,5 @@
-"name": "ModbusCommOverXbeeAPI",
+{
+  "name": "ModbusCommOverXbeeAPI",
   "keywords": "arduino, sensor, ardusensorplatform framework",
   "description": "ModbusCommOverXbeeAPI communication components for ardusensorplatform framework",
   "repository":
@@ -36,3 +37,4 @@
   "version": "1.2.0",
   "frameworks": "arduino",
   "platforms": "*"
+}
